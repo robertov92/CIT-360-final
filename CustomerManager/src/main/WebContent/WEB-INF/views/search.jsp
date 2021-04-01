@@ -6,10 +6,29 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Search Result</title>
+<style>
+	*{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	}
+	table{
+	margin:0 auto;
+	border-collapse: collapse;
+	}
+	td, th{
+	border: 1px solid rgba(0, 0, 0, .3);
+	padding:5px 10px;
+	background:rgba(0, 0, 0, .05);
+	}
+	th{
+	background:rgba(0, 0, 0, .8);
+	color:white;
+	}
+</style>
 </head>
 <body>
 	<div>
-		<h1>Search Result</h1>
+		<h1>Search Results</h1>
 		<table>
 			<tr>
 				<th>ID</th>
