@@ -8,3 +8,6 @@ Customer manager application written in Java.
 * Hibernate
 * Eclipse
 * MySQL
+
+## Video Explanation:
+https://www.youtube.com/watch?v=IXHcmaHoq0I
